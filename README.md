@@ -83,7 +83,7 @@ Instructions (Windows only)
 Known Issues
 ----------------------------
 - Vibration is not supported yet, this will come in the next release
-- If you have used any OS that uses the mainline kernel (such as Rocknix), you will experience reboots instead of the device shutting down. You will need to unplug your battery and plug it back in. This is a known issue between the compatibility of BSP and mainline kernels. 
+- If you have used any OS that uses the mainline kernel (such as Rocknix), you will experience reboots instead of the device shutting down. This can be resolved by either a) Booting back into mainline (e.g Rocknix) and shutting down from there, or b) you will need to unplug your battery and plug it back in. This is a known issue between the compatibility of BSP and mainline kernels.
 - PPSSPP will incorrectly try to create its application directories on the root of your internal storage, you will need to change this within PPSPP (when installed) to a dedicated directory on the storage.
 
 
