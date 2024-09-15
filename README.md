@@ -69,7 +69,7 @@ Instructions (Windows only)
 ----------------------------
 **NOTE: Do not try and use a tool like DD, Win32DiskImager or balenaEtcher, this will not work.**
 - Ensure you have 7-Zip installed
-- Download the relevant device image at the bottom of this page for your device (GammaOS_Core_Beta1_XXX.7z)
+- Download the relevant device image at the bottom of a release on this page (https://github.com/TheGammaSqueeze/GammaOSCore/releases) for your device (GammaOS_Core_Beta1_XXX.7z)
 - Download SDDiskTool_v1.69.zip
 - Extract the SDDiskTool_v1.69.zip and GammaOS_Core_Beta1_XXX.7z (ensuring you use the password provided)
 - Ensuring that your MicroSD card is inserted into your card reader, open the SD_Firmware_Tool.exe in the SDDiskTool_v1.69 folder
