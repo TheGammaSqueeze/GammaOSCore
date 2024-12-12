@@ -5,11 +5,13 @@ Information
 GammaOS Core is a minimal version of Android 13 TV suited for low powered devices with chipsets such as the Rockchip RK3566 and with no touchscreen required.
 It has been heavily modified to reduce memory footprint and introduce quality of life enhancements to your devices. 
 
-### **A minimum of a 32GB A2 spec MicroSD card is recommended, with speeds similar to a Sandisk Ultra card. Don't use a low quality card, performance will be poor or the device may not boot at all.**
+### **A minimum of a 32GB A2 spec MicroSD card is recommended, with speeds similar to a Sandisk Extreme (A2 for gaming) or Samsung Pro Plus card. Don't use a low quality card, performance will be poor or the device may not boot at all.**
 ![image](https://github.com/user-attachments/assets/8ea78619-e608-4486-8ec9-d06572c74a0c)
 
 
-Recommended card: https://www.samsung.com/uk/memory-storage/memory-card/memory-card-pro-plus-microsd-card-128gb-mb-md128sa-eu/
+Recommended cards: 
+- https://www.samsung.com/uk/memory-storage/memory-card/memory-card-pro-plus-microsd-card-128gb-mb-md128sa-eu/
+- https://shop.sandisk.com/en-gb/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-for-mobile-gaming-microsd?sku=SDSQXAH-064G-GN6GN
 
 Supported Devices
 ----------------------------
