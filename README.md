@@ -8,10 +8,11 @@ It has been heavily modified to reduce memory footprint and introduce quality of
 ### **A minimum of a 32GB A2 spec MicroSD card is recommended, with speeds similar to a Sandisk Extreme (A2 for gaming) or Samsung Pro Plus card. Don't use a low quality card, performance will be poor or the device may not boot at all.**
 ![image](https://github.com/user-attachments/assets/8ea78619-e608-4486-8ec9-d06572c74a0c)
 
-
 Recommended cards: 
 - https://www.samsung.com/uk/memory-storage/memory-card/memory-card-pro-plus-microsd-card-128gb-mb-md128sa-eu/
 - https://shop.sandisk.com/en-gb/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-for-mobile-gaming-microsd?sku=SDSQXAH-064G-GN6GN
+
+[![Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!](https://i3.ytimg.com/vi/foqWtIHcTgk/maxresdefault.jpg)](https://www.youtube.com/watch?v=foqWtIHcTgk "Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!")
 
 Supported Devices
 ----------------------------
