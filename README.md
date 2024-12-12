@@ -1,36 +1,42 @@
-This beta release is for Patreon supporters only. If you'd like the password to this build, please join my Patreon (Gamma Insider/Innovator tiers): https://www.patreon.com/GammaOS
+![BannerLogo](https://github.com/user-attachments/assets/93cf5031-9b0c-44f0-ac4b-c2044da06b6e)
+
 ----------------------------
-
-Supported Devices
-----------------------------
-**Anbernic**
-- RG ARC-D / RG ARC-S (GammaOS_Core_Beta1_RG_ARC.7z)
-- RG353V / RG353VS (GammaOS_Core_Beta1_RG_353.7z)
-- RG353P / RG353PS (GammaOS_Core_Beta1_RG_353.7z)
-- RG353M (GammaOS_Core_Beta1_RG_353.7z)
-- RG503 (GammaOS_Core_Beta1_RG_503.7z)
-
-**Powkiddy**
-- RGB30 (GammaOS_Core_Beta1_RGB30_RGB20SX.7z)
-- RGB20SX (GammaOS_Core_Beta1_RGB30_RGB20SX.7z)
-- RGB10MAX3 (GammaOS_Core_Beta1_RGB10MAX3.7z)
-
-### **A minimum of a 32GB MicroSD card is recommended, with speeds similar to a Sandisk Ultra card.**
-
 Information
 ----------------------------
 GammaOS Core is a minimal version of Android 13 TV suited for low powered devices with chipsets such as the Rockchip RK3566 and with no touchscreen required.
 It has been heavily modified to reduce memory footprint and introduce quality of life enhancements to your devices. 
 
-Check out a demo of it here: https://www.youtube.com/watch?v=M8nKMQjlut0
-[![GammaOS Core (Android 13) demo on Powkiddy RGB20SX
-](https://i3.ytimg.com/vi/M8nKMQjlut0/maxresdefault.jpg)](https://www.youtube.com/watch?v=M8nKMQjlut0 "GammaOS Core (Android 13) demo on Powkiddy RGB20SX")
+### **A minimum of a 32GB A2 spec MicroSD card is recommended, with speeds similar to a Sandisk Ultra card. Don't use a low quality card, performance will be poor or the device may not boot at all.**
+![image](https://github.com/user-attachments/assets/8ea78619-e608-4486-8ec9-d06572c74a0c)
+
+
+Recommended card: https://www.samsung.com/uk/memory-storage/memory-card/memory-card-pro-plus-microsd-card-128gb-mb-md128sa-eu/
+
+Supported Devices
+----------------------------
+**Anbernic**
+- RG ARC-D / RG ARC-S
+- RG353V / RG353VS
+- RG353P / RG353PS
+- RG353M
+- RG503
+
+**Powkiddy**
+- RGB30
+- RGB20SX
+- RGB10MAX3
+- RGB20 PRO
+- X55
+
+**GKD**
+- Bubble (requires additional steps to run GammaOS Core) (Bluetooth and USB OTG not currently supported)
+
 
 Features
 ----------------------------
 - Boot from SD card, you can keep your existing eMMC install intact (if applicable)
 - Includes RetroArch preinstalled and preconfigured. 
-- Includes Plain Launcher preinstalled and preconfigured (credit: https://bokonon-yossarian.itch.io/plain-launcher)
+- Includes Daijisho preinstalled and preconfigured
 - Includes MiXplorer (SD, FTP, Lan, Cloud and other storage explorers)
 - Rooted, with Magisk support
 - Quick Settings menu (by holding down Power button)
@@ -82,11 +88,11 @@ Instructions (Windows only)
 
 Known Issues
 ----------------------------
-- Vibration is not supported yet, this will come in the next release
+- Vibration is not supported yet, this will come in a future release
 - If you have used any OS that uses the mainline kernel (such as Rocknix), you will experience reboots instead of the device shutting down. This can be resolved by either a) Booting back into mainline (e.g Rocknix) and shutting down from there, or b) you will need to unplug your battery and plug it back in. This is a known issue between the compatibility of BSP and mainline kernels.
-- PPSSPP will incorrectly try to create its application directories on the root of your internal storage, you will need to change this within PPSPP (when installed) to a dedicated directory on the storage.
 
 
 Changelog
 ----------------------------
+- Beta2: Added memory improvements, added additional emulators, switched to Daijisho as default launcher, relaxed scoped storage completely, improved mouse emulation mode (right stick/trigger buttons simulate wheel scrolling), added GammaOS Tweaks menu to Settings (32bit, webview, memory clear toggles), moved swap from file to partition. 
 - Beta1: Initial beta release
