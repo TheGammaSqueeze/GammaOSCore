@@ -1,6 +1,5 @@
 ![BannerLogo](https://github.com/user-attachments/assets/93cf5031-9b0c-44f0-ac4b-c2044da06b6e)
 
-----------------------------
 Information
 ----------------------------
 GammaOS Core is a minimal version of Android 13 TV suited for low powered devices with chipsets such as the Rockchip RK3566 and with no touchscreen required.
