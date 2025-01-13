@@ -11,6 +11,9 @@ It has been heavily modified to reduce memory footprint and introduce quality of
 Recommended cards: 
 - https://www.samsung.com/uk/memory-storage/memory-card/memory-card-pro-plus-microsd-card-128gb-mb-md128sa-eu/
 - https://shop.sandisk.com/en-gb/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-for-mobile-gaming-microsd?sku=SDSQXAH-064G-GN6GN
+### **DO NOT USE AMAZON BASICS OR CHEAP BRANDS. These are unreliable. **
+
+----------------------------
 
 [![Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!](https://i3.ytimg.com/vi/foqWtIHcTgk/maxresdefault.jpg)](https://www.youtube.com/watch?v=foqWtIHcTgk "Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!")
 
