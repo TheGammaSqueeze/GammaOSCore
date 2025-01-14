@@ -14,8 +14,7 @@ Recommended cards:
 ### **DO NOT USE AMAZON BASICS OR CHEAP BRANDS. These are unreliable. **
 
 ----------------------------
-
-[![Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!](https://i3.ytimg.com/vi/foqWtIHcTgk/maxresdefault.jpg)](https://www.youtube.com/watch?v=foqWtIHcTgk "Get Android on your RK3566 Handhelds (GammaOS Core Beta Guide)!")
+[![GammaOS Core Overview!](https://github.com/user-attachments/assets/ce9a3bed-6f6d-4591-854d-ae8a97655834)](https://www.youtube.com/watch?v=IcO3LRHmp4w "GammaOS Core Overview")
 
 Supported Devices
 ----------------------------
