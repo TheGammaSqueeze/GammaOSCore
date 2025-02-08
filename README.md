@@ -35,6 +35,7 @@ Supported Devices
 
 **OTHERS**
 - CB408
+- Miyoo Flip 
 
 Features
 ----------------------------
