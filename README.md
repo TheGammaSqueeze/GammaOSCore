@@ -37,6 +37,12 @@ Supported Devices
 - CB408
 - Miyoo Flip 
 
+**TrimUI**
+- Smart Pro (https://github.com/TheGammaSqueeze/GammaOSCore/releases/tag/beta3_a133p)
+
+**MagicX**
+- Zero28 (https://github.com/TheGammaSqueeze/GammaOSCore/releases/tag/beta3_a133p)
+
 Features
 ----------------------------
 - Boot from SD card, you can keep your existing eMMC install intact (if applicable)
